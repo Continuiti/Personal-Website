@@ -15,3 +15,5 @@ email: tltran5@uno.edu
 # gplus_username:  lorem_ipsum
 
 exclude: ['package.json', 'src' , 'node_modules']
+
+theme: jekyll-theme-slate
