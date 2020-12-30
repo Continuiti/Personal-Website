@@ -8,11 +8,7 @@ description: Personal Website
 username: Thien Tran
 user_description: Hello, I'm Thien! My love of technology began at a very early age. I stumbled upon a program a decade ago that modified the way that a specific mechanism worked in a popular game at that time. I developed a deep curiosity of how that program worked, and I had such a burning desire to create my own program that I attempted to learn C++ at the age of 11 years old. I remember how ecstatic I was when I successfully printed 'Hello World!' for the first time! <br> I didn't dive too deep into coding at that point, but the curiosity and desire of utilizing computers to solve problems that I ignited back then led me to complete an online Python course many years later during my sophomore year of high school. The most surprising part to me about the Python course was that even though I was watching lecture videos and doing assignments, I really loved doing so! It didn't feel like work - in fact I couldn't wait until lunch break so that I could immediately hop back in to learn more! That's when I knew that this is what I wanted to do in life. The spark that I ignited and fanned throughout my past has brought me to and carried me through the University of New Orleans where I am studying Computer Science. Now, I'm hoping to acquire an internship to gain formal experience to bring me towards the next stage in my life, and to put all of the things I’ve learned to use in real world applications.
 
-user_title: Computer Science Student
 email: tltran5@uno.edu
-# twitter_username: lorem_ipsum
-# github_username:  lorem_ipsum
-# gplus_username:  lorem_ipsum
 
 exclude: ['package.json', 'src' , 'node_modules']
 
