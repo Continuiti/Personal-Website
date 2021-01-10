@@ -5041,13 +5041,13 @@ body {
 	margin: 5px auto
 }
 
-.profile-image {
+.user-details .profile-image {
 	position: relative;
-    top: 50px;
+    	top: 50px;
 }
 
 .user-details p {
-	text-align: center;
+	text-align: left;
 }
 
 .footer {
