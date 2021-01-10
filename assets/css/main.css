@@ -5041,6 +5041,15 @@ body {
 	margin: 5px auto
 }
 
+.user-details .img-responsive {
+	position: relative;
+    top: 50px;
+}
+
+.user-details p {
+	text-align: left;
+}
+
 .footer {
 	background: #1a222c;
 	padding: 10px 0;
