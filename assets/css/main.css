@@ -5050,16 +5050,30 @@ body {
 	text-align: left;
 }
 
+#education {
+	font-size: 120%;
+	margin: 0 auto;
+	background-color: #4d5158;
+}
+
+.school-details {
+	text-align: center;
+	margin: 5px auto;
+	width: 90%;
+	max-width: 960px;
+	color: #fff;
+}
+
+.school-details h1{
+	font-weight: 400;
+	color: #fff;
+}
+
 .footer {
 	background: #1a222c;
 	padding: 10px 0;
-	margin-top: 100px;
 	text-align: center;
 	color: #fff
-}
-
-.footer .love {
-	color: red
 }
 
 .footer a {
