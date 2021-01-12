@@ -5078,23 +5078,15 @@ body {
 	text-align: center;
 }
 
-.school-details {
-	text-align: center;
-	margin: 5px auto;
-	width: 90%;
-	max-width: 960px;
-	color: #fff;
-}
-
 #uno-info {	
 	display: flex;
 	justify-content: center;
 	align-content: center;
-    margin-bottom: 50px;
+	margin-bottom: 50px;
 }
 
 #uno-info img {
-	width: 105px;
+	width: 120px;
 }
 
 #student-info {
@@ -5105,9 +5097,18 @@ body {
 #student-info h2,h3,h4{
 	text-align: left;
 	color: #fff;
-	margin: 2px;
+	line-height: 5px;
 	margin-left: 8px;
 	padding-top: 0px;
+	font-weight: 400;
+}
+
+.school-details {
+	text-align: center;
+	margin: 5px auto;
+	width: 90%;
+	max-width: 960px;
+	color: #fff;
 }
 
 .footer {
