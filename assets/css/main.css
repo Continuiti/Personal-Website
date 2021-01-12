@@ -5080,6 +5080,7 @@ body {
 
 #uno-info {	
 	display: flex;
+	flex-wrap: wrap;
 	justify-content: center;
 	align-content: center;
 	margin-bottom: 50px;
