@@ -4835,6 +4835,22 @@ sup {
 	}
 }
 
+
+
+
+
+
+
+
+/* Start of relevant site CSS*/
+
+
+
+
+
+
+
+
 #particles-js {
 	background: #1a222c;
 	display: flex;
@@ -5056,6 +5072,12 @@ body {
 	background-color: #4d5158;
 }
 
+#education h1{
+	font-weight: 400;
+	color: #fff;
+	text-align: center;
+}
+
 .school-details {
 	text-align: center;
 	margin: 5px auto;
@@ -5064,9 +5086,23 @@ body {
 	color: #fff;
 }
 
-.school-details h1{
-	font-weight: 400;
+#uno-info {	
+	display: flex;
+	justify-content: center;
+	align-content: center;
+    margin-bottom: 50px;
+}
+
+#uno-info img {
+	width: 103px;
+}
+
+#student-info h2,h3,h4{
+	text-align: left;
 	color: #fff;
+	margin: 2px;
+	margin-left: 8px;
+	padding-top: 0px;
 }
 
 .footer {
