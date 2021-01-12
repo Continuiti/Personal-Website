@@ -5108,11 +5108,11 @@ body {
 	justify-content: center;
 	align-items: flex-start;
 	align-content: center;
+	color: #fff;
 }
 
-.coursework{
-	
-	color: #fff;
+.courses{
+	margin-bottom: 50px;
 }
 
 .footer {
