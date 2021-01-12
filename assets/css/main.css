@@ -4835,6 +4835,22 @@ sup {
 	}
 }
 
+
+
+
+
+
+
+
+/* Start of relevant site CSS*/
+
+
+
+
+
+
+
+
 #particles-js {
 	background: #1a222c;
 	display: flex;
@@ -5050,16 +5066,60 @@ body {
 	text-align: left;
 }
 
+#education {
+	font-size: 120%;
+	margin: 0 auto;
+	background-color: #4d5158;
+}
+
+#education h1{
+	font-weight: 400;
+	color: #fff;
+	text-align: center;
+}
+
+#uno-info {	
+	display: flex;
+	justify-content: center;
+	align-content: center;
+	margin-bottom: 50px;
+}
+
+#uno-info img {
+	width: 120px;
+}
+
+#student-info {
+	margin-top: auto;
+	margin-bottom: auto;
+}
+
+#student-info h2,h3,h4{
+	text-align: left;
+	color: #fff;
+	line-height: 5px;
+	margin-left: 8px;
+	padding-top: 0px;
+	font-weight: 400;
+}
+
+.course-detail {
+	display: flex;
+	justify-content: center;
+	align-items: flex-start;
+	align-content: center;
+	color: #fff;
+}
+
+.courses{
+	margin-bottom: 50px;
+}
+
 .footer {
 	background: #1a222c;
 	padding: 10px 0;
-	margin-top: 100px;
 	text-align: center;
 	color: #fff
-}
-
-.footer .love {
-	color: red
 }
 
 .footer a {
