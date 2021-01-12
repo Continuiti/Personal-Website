@@ -5094,7 +5094,12 @@ body {
 }
 
 #uno-info img {
-	width: 103px;
+	width: 105px;
+}
+
+#student-info {
+	margin-top: auto;
+	margin-bottom: auto;
 }
 
 #student-info h2,h3,h4{
