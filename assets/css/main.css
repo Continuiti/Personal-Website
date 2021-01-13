@@ -5080,6 +5080,7 @@ body {
 
 #uno-info {	
 	display: flex;
+	flex-wrap: wrap;
 	justify-content: center;
 	align-content: center;
 	margin-bottom: 50px;
@@ -5087,6 +5088,7 @@ body {
 
 #uno-info img {
 	width: 120px;
+	height: 120px;
 }
 
 #student-info {
