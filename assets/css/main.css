@@ -5101,8 +5101,9 @@ body {
 }
 
 #uno-info img {
-	width: 120px;
-	height: 120px;
+	margin-block: auto;
+	width: 130px;
+	height: 130px;
 }
 
 #student-info {
