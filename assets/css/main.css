@@ -4738,7 +4738,7 @@ body {
 	padding: 0;
 	font-size: 100%;
 	line-height: 1.5;
-	color: #555;
+	color: rgb(46, 46, 46);
 	font-family: 'Antic Slab', serif
 }
 
@@ -4843,8 +4843,6 @@ sup {
 
 
 /* Start of relevant site CSS*/
-
-
 
 
 
@@ -5003,16 +5001,14 @@ sup {
 }
 
 #about {
+	background-color:rgb(241, 241, 241);
 	font-size: 120%;
-	width: 90%;
 	margin: 0 auto;
-	max-width: 960px
-}
-
-@media only screen and (min-width:768px) {
-	#about {
-		width: 80%
-	}
+	min-height:100vh;
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+	align-content: center;
 }
 
 #about svg {
@@ -5054,7 +5050,9 @@ body {
 
 .user-details {
 	text-align: center;
-	margin: 5px auto
+	margin: 5px auto;
+	max-width: 960px;
+	width: 90%;
 }
 
 .user-details .profile-image {
@@ -5067,15 +5065,26 @@ body {
 }
 
 #education {
+	min-height:100vh;
 	font-size: 120%;
 	margin: 0 auto;
 	background-color: #4d5158;
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+	align-content: center;
+}
+
+#section-content{
+	top: 50%;
+	left: 50%;
 }
 
 #education h1{
 	font-weight: 400;
 	color: #fff;
 	text-align: center;
+	margin-top: 0px;
 }
 
 #uno-info {	
@@ -5087,8 +5096,9 @@ body {
 }
 
 #uno-info img {
-	width: 120px;
-	height: 120px;
+	margin-block: auto;
+	width: 130px;
+	height: 130px;
 }
 
 #student-info {
