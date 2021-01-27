@@ -5127,6 +5127,22 @@ body {
 	margin-bottom: 50px;
 }
 
+#projects{
+	min-height:100vh;
+	font-size: 120%;
+	margin: 0 auto;
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+	align-content: center;
+}
+
+#projects h1{
+	font-weight: 400;
+	text-align: center;
+	margin-top: 0px;
+}
+
 .footer {
 	background: #1a222c;
 	padding: 10px 0;
