@@ -4849,6 +4849,21 @@ sup {
 
 #navigation-bar{
 	position: fixed;
+	background-color: white;
+	left: 0px;
+	right: 0px;
+	top: -75px;
+	box-shadow: 0px 4px 8px grey;
+	transition: 0.3s
+}
+
+#navigation-bar .nav-option{
+	padding: 18px;
+	font-size: 16px;
+	text-align: center;
+	float: left;
+	text-decoration: none;
+	color: #1a222c;
 }
 
 #particles-js {
