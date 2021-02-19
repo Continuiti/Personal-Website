@@ -4847,7 +4847,9 @@ sup {
 
 
 
-
+#navigation-bar{
+	position: fixed;
+}
 
 #particles-js {
 	background: #1a222c;
