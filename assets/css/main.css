@@ -5055,7 +5055,6 @@ body {
 }
 
 .user-details .profile-image {
-	position: relative;
     border-radius: 5px;
     box-shadow: 4px 4px 3px grey;
 }
