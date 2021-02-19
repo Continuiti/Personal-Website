@@ -5054,6 +5054,12 @@ body {
 	justify-content: space-between
 }
 
+.user-details .profile-image {
+	position: relative;
+    border-radius: 5px;
+    box-shadow: 4px 4px 3px grey;
+}
+
 .user p {
 	font-size: 16px
 }
@@ -5072,14 +5078,16 @@ body {
 	width: 90%;
 }
 
-.user-details .profile-image {
-	position: relative;
-    	top: 50px;
+.user-details h1{
+	margin-top: 0px;
+	padding-top: 0px;
 }
 
 .user-details p {
 	text-align: left;
 }
+
+.user-details 
 
 #education {
 	min-height:100vh;
