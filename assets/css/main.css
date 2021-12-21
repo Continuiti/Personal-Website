@@ -5127,15 +5127,12 @@ body {
 	margin-top: 0px;
 }
 
-#uno-info {	
+#school-info {	
 	display: flex;
 	flex-wrap: wrap;
-	justify-content: center;
-	align-content: center;
-	margin-bottom: 50px;
 }
 
-#uno-info img {
+#school-info img {
 	margin-block: auto;
 	width: 130px;
 	height: 130px;
@@ -5156,10 +5153,6 @@ body {
 }
 
 .course-detail {
-	display: flex;
-	justify-content: center;
-	align-items: flex-start;
-	align-content: center;
 	color: #fff;
 }
 
